@@ -2,7 +2,7 @@
 
 Proyecto web simple que permite generar contraseñas seguras de forma dinámica, indicando la longitud deseada y ofreciendo la opción de copiarla fácilmente al portapapeles.
 
-Ideal como práctica de **HTML, CSS y JavaScript puro**, y como proyecto inicial para portafolio.
+Ideal como práctica de ** Python, HTML, CSS y JavaScript puro**, y como proyecto inicial para portafolio.
 
 ---
 

@@ -37,9 +37,9 @@ Símbolos especiales
 
 ✅ Interfaz simple y clara
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 
- Oscar Clavijo
+👨‍💻 Oscar Clavijo
 Desarrollador Full stack jr | Analista Ciberseguridad jr
 📍 Colombia
 

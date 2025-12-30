@@ -19,6 +19,8 @@ CSS3 – Estilos y diseño visual
 
 JavaScript (Vanilla JS) – Lógica de generación y copiado de contraseñas
 
+Python - Flask
+
 ⚙️ Funcionalidades
 
 ✅ Generación de contraseñas seguras

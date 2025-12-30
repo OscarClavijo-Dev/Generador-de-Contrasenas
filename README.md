@@ -6,9 +6,7 @@ Ideal como práctica de **HTML, CSS y JavaScript puro**, y como proyecto inicial
 
 ---
 
-## 🚀 Demo
-
-Ejemplo:  
+## 🚀 Página web  
 [https://usuario.github.io/generador-contrasenas/](https://generador-de-contrasenas-gcfx.onrender.com/)
 
 ---
@@ -41,8 +39,8 @@ Símbolos especiales
 
 👨‍💻 Autor
 
-Oscar
-Desarrollador Web | Backend | Ciberseguridad
+Oscar Clavijo
+Desarrollador Full stack jr | Analista Ciberseguridad jr
 📍 Colombia
 
 📄 Licencia

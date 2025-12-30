@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import string
 import random
+import os
 
 app = Flask(__name__)
 
@@ -20,6 +21,7 @@ def index():
     return render_template("index.html", contrasena=contrasena)
 
 if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
     app.run(debug=True)
 
 

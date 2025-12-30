@@ -7,18 +7,13 @@ Ideal como práctica de **HTML, CSS y JavaScript puro**, y como proyecto inicial
 ---
 
 ## 🚀 Demo
-👉 *(Opcional)* Agrega aquí el enlace a GitHub Pages cuando lo publiques  
+
 Ejemplo:  
-https://usuario.github.io/generador-contrasenas/
+[https://usuario.github.io/generador-contrasenas/](https://generador-de-contrasenas-gcfx.onrender.com/)
 
 ---
 
-## 📸 Vista previa
-*(Opcional)* Puedes agregar una captura del proyecto aquí usando:  
-```md
-![Vista previa](./preview.png) <img width="630" height="602" alt="image" src="https://github.com/user-attachments/assets/0fc2f40c-1a08-4d67-aa30-16b26a061128" />
-
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 HTML5 – Estructura del proyecto
 

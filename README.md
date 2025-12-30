@@ -1,4 +1,4 @@
-# 🔐 Generador de Contraseñas Seguras
+# 🔐 Generador de Contraseñas Seguras con Python
 
 Proyecto web simple que permite generar contraseñas seguras de forma dinámica, indicando la longitud deseada y ofreciendo la opción de copiarla fácilmente al portapapeles.
 

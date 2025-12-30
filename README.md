@@ -39,7 +39,7 @@ Símbolos especiales
 
 ## 👨‍💻 Autor
 
-👨‍💻 Oscar Clavijo
+👨‍💻 Oscar Clavijo : 
 Desarrollador Full stack jr | Analista Ciberseguridad jr
 📍 Colombia
 

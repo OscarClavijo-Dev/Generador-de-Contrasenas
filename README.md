@@ -7,7 +7,7 @@ Ideal como práctica de **HTML, CSS y JavaScript puro**, y como proyecto inicial
 ---
 
 ## 🚀 Página web  
-[https://usuario.github.io/generador-contrasenas/](https://generador-de-contrasenas-gcfx.onrender.com/)
+(https://generador-de-contrasenas-gcfx.onrender.com/)
 
 ---
 
